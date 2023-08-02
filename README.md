@@ -11,12 +11,12 @@ cd
 
 ## Step 1: Git / GitHub
 
-git --help
-git clone repo url
-git status
-git add . 
-git commit -m ""
-git push origin main
+git --help  
+git clone repo url  
+git status  
+git add .  
+git commit -m ""  
+git push origin main  
 
 
 
