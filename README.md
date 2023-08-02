@@ -1,4 +1,4 @@
-# Guideline
+r# Guideline
 
 Step by step learning process description
 
@@ -10,7 +10,7 @@ nano
 
 cat
 
-cd 
+cd
 
 ## Step 1: Git / GitHub
 
